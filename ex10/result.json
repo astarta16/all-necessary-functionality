@@ -1,0 +1,12 @@
+{
+ "best_team": {
+  "Arsenal": 68.42,
+  "Southampton": 173.68,
+  "Sunderland": 173.68
+ },
+ "worst_team": [
+  "Charlton",
+  "Everton",
+  "Aston_Villa"
+ ]
+}
