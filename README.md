@@ -1,4 +1,4 @@
-#Python University Assignments
+Python University Assignments
 
 Welcome to my repository showcasing a collection of assignments completed during my Python coursework at university. This repository is a testament to my journey from grasping the fundamentals of Python to tackling more advanced topics.
 
